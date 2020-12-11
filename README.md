@@ -1,3 +1,7 @@
+相关博客地址：
+在真实地图上显示SLAM输出的运动轨迹： https://blog.csdn.net/qq_36170626/article/details/105941428
+
+
 # ROS-LEAFLET-GPS
 
  This application is designed to display an OSM map with Leaflet in a browser, while connected to ROS, so it can display the position and trajectory of the GPS (/NavSatFix) using a marker. 
